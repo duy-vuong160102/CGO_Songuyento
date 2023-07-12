@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\bin\Debug\CGO_Songuyento.exe.config
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\bin\Debug\CGO_Songuyento.exe
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\bin\Debug\CGO_Songuyento.pdb
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\obj\Debug\CGO_Songuyento.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\obj\Debug\CGO_Songuyento.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\obj\Debug\CGO_Songuyento.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\obj\Debug\CGO_Songuyento.exe
+D:\GitHub\Project\BTVN\CGO_Songuyento\CGO_Songuyento\obj\Debug\CGO_Songuyento.pdb
